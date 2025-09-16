@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-seni seviyorum 
 =======
 # my-first-project
 adamsın
