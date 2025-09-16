@@ -1,0 +1,30 @@
+[33mcommit 72c9d59b077c40d48c589e93afb9089a501c1692[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: a95564b e31e616
+Author: ogulcan celıkkaya <ogulca123@gmail.com>
+Date:   Tue Sep 16 13:21:23 2025 +0300
+
+    update todo
+
+[33mcommit a95564b9a7857571e3d58f1ad21992ff69794ba7[m
+Author: ogulcan celıkkaya <ogulca123@gmail.com>
+Date:   Tue Sep 16 13:08:17 2025 +0300
+
+    update gitignore
+
+[33mcommit 05b7b146ea8abf17bfb126604b88dd00daccd789[m
+Author: ogulcan celıkkaya <ogulca123@gmail.com>
+Date:   Tue Sep 16 13:06:46 2025 +0300
+
+    add file
+
+[33mcommit e31e616546a61301a66cda1a1a0c6140b5d6eed0[m
+Author: oğulcan <123860363+prmdogi2@users.noreply.github.com>
+Date:   Tue Sep 16 11:50:43 2025 +0300
+
+    Update README.md
+
+[33mcommit 6b5828c91445b1e9c164d3ae98e6b2b5dcf3735f[m
+Author: oğulcan <123860363+prmdogi2@users.noreply.github.com>
+Date:   Tue Sep 16 11:23:31 2025 +0300
+
+    Initial commit
